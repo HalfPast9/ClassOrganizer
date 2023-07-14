@@ -3,7 +3,10 @@
 
  ## future updates to improve on the current product:
  - create a ui: probably use tkinter for this
- - support for async courses and 6-week courses
+ - support for:
+   -  async courses
+   -  6-week courses
+   -  biweekly courses(user will have to input and let the app know this)
  - json generator to create your own courses
  - options to edit existing courses to have it better match the current term offerings
  - ability to save multiple schedule sets (multiple per term)
