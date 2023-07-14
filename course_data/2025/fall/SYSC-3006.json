@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3006",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Organization",
+            "courseType": "Lecture",
+            "instructor": "Yuu Ono",
+            "courseCode": "SYSC 3006",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "16:00 - 17:30",
+                "building": "Minto Centre",
+                "room": "5050",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 2001 and SYSC 2003 SYSC 2320 and SYSC 3310.  May not be taken for credit by students in Computer Systems Engineering Communications Engineering or Software Engineering.",
+            "crn": "35560"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3006",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Organization",
+            "courseType": "Laboratory",
+            "instructor": "Yuu Ono",
+            "courseCode": "SYSC 3006",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 10,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "13:30 - 15:30",
+                "building": "Minto Centre",
+                "room": "6045",
+                "endBlock": 14
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35561"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3006",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Organization",
+            "courseType": "Laboratory",
+            "instructor": "Yuu Ono",
+            "courseCode": "SYSC 3006",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 14,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "15:30 - 17:30",
+                "building": "Minto Centre",
+                "room": "6045",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35562"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3006",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Organization",
+            "courseType": "Laboratory",
+            "instructor": "Yuu Ono",
+            "courseCode": "SYSC 3006",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "09:30 - 11:30",
+                "building": "Minto Centre",
+                "room": "6045",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35563"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3006",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Organization",
+            "courseType": "Laboratory",
+            "instructor": "Yuu Ono",
+            "courseCode": "SYSC 3006",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 8,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "12:30 - 14:30",
+                "building": "Minto Centre",
+                "room": "6045",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35564"
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4001",
+                "andSections": [],
+                "sections": [
+                    "A1",
+                    "A2",
+                    "A3"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Operating Systems",
+            "courseType": "Lecture",
+            "instructor": "Gabriel Wainer",
+            "courseCode": "SYSC 4001",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 9,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "13:00 - 14:30",
+                "building": "Nicol Building",
+                "room": "4010",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 3001 and\u00a0COMP\u00a03000.",
+            "crn": "35613"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4001",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Operating Systems",
+            "courseType": "Laboratory",
+            "instructor": "Gabriel Wainer",
+            "courseCode": "SYSC 4001",
+            "section": "A1",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35614"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4001",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Operating Systems",
+            "courseType": "Laboratory",
+            "instructor": "Gabriel Wainer",
+            "courseCode": "SYSC 4001",
+            "section": "A2",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35615"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4001",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Operating Systems",
+            "courseType": "Laboratory",
+            "instructor": "Gabriel Wainer",
+            "courseCode": "SYSC 4001",
+            "section": "A3",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "08:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35616"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4001",
+                "andSections": [],
+                "sections": [
+                    "B1",
+                    "B2",
+                    "B3"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Operating Systems",
+            "courseType": "Lecture",
+            "instructor": "Chung Lung",
+            "courseCode": "SYSC 4001",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "10:00 - 11:30",
+                "building": "Loeb Building",
+                "room": "C164",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 3001 and\u00a0COMP\u00a03000.",
+            "crn": "35617"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4001",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Operating Systems",
+            "courseType": "Laboratory",
+            "instructor": "Chung Lung",
+            "courseCode": "SYSC 4001",
+            "section": "B1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4233",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35618"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4001",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Operating Systems",
+            "courseType": "Laboratory",
+            "instructor": "Chung Lung",
+            "courseCode": "SYSC 4001",
+            "section": "B2",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "4233",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35619"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4001",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Operating Systems",
+            "courseType": "Laboratory",
+            "instructor": "Chung Lung",
+            "courseCode": "SYSC 4001",
+            "section": "B3",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "08:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35620"
+        }
+    ]
+}

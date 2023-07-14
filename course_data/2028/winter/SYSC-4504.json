@@ -1,0 +1,110 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4504",
+                "andSections": [],
+                "sections": [
+                    "L1E",
+                    "L2E",
+                    "L3E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Web Development",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "SYSC 4504",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "16:00 - 17:30",
+                "building": "Steacie Building",
+                "room": "103",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15439"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4504",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Web Development",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 4504",
+            "section": "L1E",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 15 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15440"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4504",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Web Development",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 4504",
+            "section": "L2E",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 15 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15441"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4504",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Web Development",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 4504",
+            "section": "L3E",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 15 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15442"
+        }
+    ]
+}

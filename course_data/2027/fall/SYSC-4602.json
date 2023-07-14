@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4602",
+                "andSections": [],
+                "sections": [
+                    "L1E",
+                    "L2E",
+                    "L3E",
+                    "L4E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Communications",
+            "courseType": "Lecture",
+            "instructor": "Changcheng Huang",
+            "courseCode": "SYSC 4602",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "10:00 - 11:30",
+                "building": "Tory Building",
+                "room": "360",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for COMP 3203.",
+            "crn": "35640"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Communications",
+            "courseType": "Laboratory",
+            "instructor": "Changcheng Huang",
+            "courseCode": "SYSC 4602",
+            "section": "L1E",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35641"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Communications",
+            "courseType": "Laboratory",
+            "instructor": "Changcheng Huang",
+            "courseCode": "SYSC 4602",
+            "section": "L2E",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "08:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35642"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Communications",
+            "courseType": "Laboratory",
+            "instructor": "Changcheng Huang",
+            "courseCode": "SYSC 4602",
+            "section": "L3E",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35643"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Communications",
+            "courseType": "Laboratory",
+            "instructor": "Changcheng Huang",
+            "courseCode": "SYSC 4602",
+            "section": "L4E",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35644"
+        }
+    ]
+}

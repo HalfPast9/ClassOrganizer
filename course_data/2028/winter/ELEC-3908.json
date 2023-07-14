@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3908",
+                "andSections": [],
+                "sections": [
+                    "B1",
+                    "B2"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Physical Electronics",
+            "courseType": "Lecture",
+            "instructor": "Ravi Prakash",
+            "courseCode": "ELEC 3908",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "16:00 - 17:30",
+                "building": "Tory Building",
+                "room": "342",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for ELEC  4705.",
+            "crn": "12336"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3908",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Physical Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Ravi Prakash",
+            "courseCode": "ELEC 3908",
+            "section": "B1",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "11:30 - 14:30",
+                "building": "St. Patrick's Building",
+                "room": "400",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12337"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3908",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Physical Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Ravi Prakash",
+            "courseCode": "ELEC 3908",
+            "section": "B2",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "309",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12338"
+        }
+    ]
+}

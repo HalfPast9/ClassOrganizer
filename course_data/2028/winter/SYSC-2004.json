@@ -1,0 +1,327 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Lecture",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon Wed",
+                "time": "11:30 - 13:00",
+                "building": "Mackenzie Building",
+                "room": "3380",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 1101\u00a0COMP\u00a01006\u00a0and COMP 4106.",
+            "crn": "15336"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Lecture",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "D",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon Wed",
+                "time": "16:00 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3380",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 1101 COMP 1006 and COMP 1406.",
+            "crn": "15337"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "SYSC 2004",
+            "section": "E",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "11:30 - 13:00",
+                "building": "Southam Hall",
+                "room": "416",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 1101\u00a0COMP\u00a01006\u00a0and COMP 4106.",
+            "crn": "15338"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Laboratory",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "09:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15339"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Laboratory",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "09:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15340"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Laboratory",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "09:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15341"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Laboratory",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "14:30 - 16:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15342"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Laboratory",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "L5",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "09:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15343"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Laboratory",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "L6",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "11:30 - 13:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 10
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15344"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Laboratory",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "L7",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "14:30 - 16:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15345"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2004",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D",
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Object-Oriented Sofware Dvlpmt",
+            "courseType": "Laboratory",
+            "instructor": "Lynn Marshall",
+            "courseCode": "SYSC 2004",
+            "section": "L8",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "14:30 - 16:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15346"
+        }
+    ]
+}

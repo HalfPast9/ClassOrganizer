@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3503",
+                "andSections": [],
+                "sections": [
+                    "L1E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Communication Theory II",
+            "courseType": "Lecture",
+            "instructor": "Ian Marsland",
+            "courseCode": "SYSC 3503",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon Wed",
+                "time": "14:30 - 16:00",
+                "building": "Tory Building",
+                "room": "208",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 3501 or SYSC 4600.",
+            "crn": "15402"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3503",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Communication Theory II",
+            "courseType": "Laboratory",
+            "instructor": "Ian Marsland",
+            "courseCode": "SYSC 3503",
+            "section": "L1E",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 15 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Canal Building",
+                "room": "5107",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15403"
+        }
+    ]
+}

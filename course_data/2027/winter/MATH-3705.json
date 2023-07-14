@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 3705",
+                "andSections": [],
+                "sections": [
+                    "CT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Mathematical Methods I",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "MATH 3705",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed Fri",
+                "time": "14:30 - 16:00",
+                "building": "Richcraft Hall",
+                "room": "2200",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Restricted to Faculties of Science and Engineering Precludes credit for PHYS 3808.",
+            "crn": "14074"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 3705",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Mathematical Methods I",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 3705",
+            "section": "CT",
+            "meetingInfo": {
+                "startBlock": 16,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "16:30 - 17:30",
+                "building": "",
+                "room": "",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "14080"
+        }
+    ]
+}

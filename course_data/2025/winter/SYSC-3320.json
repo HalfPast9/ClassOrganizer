@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3320",
+                "andSections": [],
+                "sections": [
+                    "L1E",
+                    "L2E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Systems Design",
+            "courseType": "Lecture",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 3320",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon Wed",
+                "time": "08:30 - 10:00",
+                "building": "Nicol Building",
+                "room": "3020",
+                "endBlock": 3
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 3601 and ELEC 4601.",
+            "crn": "15392"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3320",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Systems Design",
+            "courseType": "Laboratory",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 3320",
+            "section": "L1E",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 15 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15393"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3320",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Computer Systems Design",
+            "courseType": "Laboratory",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 3320",
+            "section": "L2E",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 15 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15394"
+        }
+    ]
+}

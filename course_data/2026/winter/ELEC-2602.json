@@ -1,0 +1,191 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2602",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electric Machines and Power",
+            "courseType": "Lecture",
+            "instructor": "Barry Syrett",
+            "courseCode": "ELEC 2602",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "11:30 - 13:00",
+                "building": "Mackenzie Building",
+                "room": "3380",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12302"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electric Machines and Power",
+            "courseType": "Laboratory",
+            "instructor": "Barry Syrett",
+            "courseCode": "ELEC 2602",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "08:30 - 11:30",
+                "building": "Southam Hall",
+                "room": "314",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12303"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electric Machines and Power",
+            "courseType": "Laboratory",
+            "instructor": "Barry Syrett",
+            "courseCode": "ELEC 2602",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Paterson Hall",
+                "room": "240",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12304"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electric Machines and Power",
+            "courseType": "Laboratory",
+            "instructor": "Barry Syrett",
+            "courseCode": "ELEC 2602",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "14:30 - 17:30",
+                "building": "Paterson Hall",
+                "room": "240",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12305"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electric Machines and Power",
+            "courseType": "Laboratory",
+            "instructor": "Barry Syrett",
+            "courseCode": "ELEC 2602",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Paterson Hall",
+                "room": "129",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12306"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electric Machines and Power",
+            "courseType": "Laboratory",
+            "instructor": "Barry Syrett",
+            "courseCode": "ELEC 2602",
+            "section": "L5",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Nicol Building",
+                "room": "3022",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12307"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2602",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electric Machines and Power",
+            "courseType": "Laboratory",
+            "instructor": "Barry Syrett",
+            "courseCode": "ELEC 2602",
+            "section": "L6",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "08:30 - 11:30",
+                "building": "Paterson Hall",
+                "room": "240",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12308"
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "L01",
+                    "L02",
+                    "L03",
+                    "L04",
+                    "L05",
+                    "L06",
+                    "L07"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Lecture",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "10:00 - 11:30",
+                "building": "Nideyin\u00e0n  (former UC)",
+                "room": "231",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Registration is limited based on program please verify which term to take this course by checking your program progression tree: https://carleton.ca/engineering-design/current-students/ undergrad-academic-support/prerequisites/\u2019",
+            "crn": "32357"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "L01",
+                    "L02",
+                    "L03",
+                    "L04",
+                    "L05",
+                    "L06",
+                    "L07"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Lecture",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "08:30 - 10:00",
+                "building": "Nideyin\u00e0n  (former UC)",
+                "room": "231",
+                "endBlock": 3
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Registration is limited based on program please verify which term to take this course by checking your program progression tree: https://carleton.ca/engineering-design/current-students/ undergrad-academic-support/prerequisites/",
+            "crn": "32358"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L01",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "316",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32360"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L02",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "316",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32361"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L03",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "11:30 - 14:30",
+                "building": "Loeb Building",
+                "room": "B146",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32362"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L04",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "303",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32363"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L05",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "11:30 - 14:30",
+                "building": "Southam Hall",
+                "room": "318",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32364"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L06",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "08:30 - 11:30",
+                "building": "Southam Hall",
+                "room": "318",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32365"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L07",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "11:30 - 14:30",
+                "building": "Loeb Building",
+                "room": "B146",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32366"
+        }
+    ]
+}

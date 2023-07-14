@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3105",
+                "andSections": [],
+                "sections": [
+                    "A1",
+                    "A2",
+                    "A3",
+                    "A4"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Fields",
+            "courseType": "Lecture",
+            "instructor": "Robert Gauthier",
+            "courseCode": "ELEC 3105",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "16:00 - 17:30",
+                "building": "Southam Hall",
+                "room": "416",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for ELEC 2601 or ELEC 3504.",
+            "crn": "32405"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3105",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Fields",
+            "courseType": "Laboratory",
+            "instructor": "Robert Gauthier",
+            "courseCode": "ELEC 3105",
+            "section": "A1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Southam Hall",
+                "room": "303",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32406"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3105",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Fields",
+            "courseType": "Laboratory",
+            "instructor": "Robert Gauthier",
+            "courseCode": "ELEC 3105",
+            "section": "A2",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "11:30 - 14:30",
+                "building": "Teraanga Commons (former CO)",
+                "room": "209",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32407"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3105",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Fields",
+            "courseType": "Laboratory",
+            "instructor": "Robert Gauthier",
+            "courseCode": "ELEC 3105",
+            "section": "A3",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "11:30 - 14:30",
+                "building": "Loeb Building",
+                "room": "B250",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32408"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3105",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Fields",
+            "courseType": "Laboratory",
+            "instructor": "Robert Gauthier",
+            "courseCode": "ELEC 3105",
+            "section": "A4",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "313",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32409"
+        }
+    ]
+}

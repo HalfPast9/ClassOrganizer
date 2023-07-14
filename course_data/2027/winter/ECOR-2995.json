@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "alsoRegister": null,
+            "courseName": "Engineering Portfolio",
+            "courseType": "Independent Study",
+            "instructor": "Samuel Ajila",
+            "courseCode": "ECOR 2995",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": -1,
+                "meetingDate": "Jan 08 2024 to Feb 16 2024",
+                "days": "",
+                "time": "",
+                "building": "",
+                "room": "",
+                "endBlock": -1
+            },
+            "sectionInfo": "ection Type - ONLINE ASYNCHRONOUS Registration open to students who will have reached 3rd year status by start of Winter 2024 term. Portfolio submission deadline will be March 1 2024.",
+            "crn": "15609"
+        }
+    ]
+}

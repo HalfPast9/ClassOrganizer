@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "alsoRegister": null,
+            "courseName": "Engineering Economics",
+            "courseType": "Lecture",
+            "instructor": "Elisabeth Gilmore",
+            "courseCode": "ECOR 3800",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "08:30 - 11:30",
+                "building": "Azrieli Theatre",
+                "room": "302",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Engineering Economics Registration is limited based on program please verify which term to take this course by checking your program tree https://carleton.ca/engineering-design/current-students /undergrad-academic-support/prerequisites/ NOTE: Restricted to 3rd year status in Eng students - 2nd year status students can register as of August 15 @ 9am",
+            "crn": "32373"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Engineering Economics",
+            "courseType": "Lecture",
+            "instructor": "Elisabeth Gilmore",
+            "courseCode": "ECOR 3800",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "10:00 - 11:30",
+                "building": "Azrieli Theatre",
+                "room": "302",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Engineering Economics Registration is limited based on program please verify which term to take this course by checking your program tree https://carleton.ca/engineering-design/current-students /undergrad-academic-support/prerequisites/ NOTE: Restricted to 3rd year status in Eng students - 2nd year status students can register as of August 15 @ 9am",
+            "crn": "32374"
+        }
+    ]
+}

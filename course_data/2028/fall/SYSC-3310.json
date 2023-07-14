@@ -1,0 +1,189 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3310",
+                "andSections": [],
+                "sections": [
+                    "A1",
+                    "A2",
+                    "A3"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Real-Time Systems",
+            "courseType": "Lecture",
+            "instructor": "Gabriel Wainer",
+            "courseCode": "SYSC 3310",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 19,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "18:00 - 19:30",
+                "building": "Mackenzie Building",
+                "room": "4499",
+                "endBlock": 22
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 2003 and SYSC 3006.",
+            "crn": "35585"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3310",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Real-Time Systems",
+            "courseType": "Laboratory",
+            "instructor": "Gabriel Wainer",
+            "courseCode": "SYSC 3310",
+            "section": "A1",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "16:00 - 18:00",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 19
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35587"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3310",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Real-Time Systems",
+            "courseType": "Laboratory",
+            "instructor": "Gabriel Wainer",
+            "courseCode": "SYSC 3310",
+            "section": "A2",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "11:30 - 13:30",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 10
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35588"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3310",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Real-Time Systems",
+            "courseType": "Laboratory",
+            "instructor": "Gabriel Wainer",
+            "courseCode": "SYSC 3310",
+            "section": "A3",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "08:30 - 10:30",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 4
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35589"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3310",
+                "andSections": [],
+                "sections": [
+                    "B1",
+                    "B2"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Real-Time Systems",
+            "courseType": "Lecture",
+            "instructor": "Shikharesh Majumdar",
+            "courseCode": "SYSC 3310",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "08:30 - 10:00",
+                "building": "Mackenzie Building",
+                "room": "4499",
+                "endBlock": 3
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 2003 and SYSC 3006.",
+            "crn": "35586"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3310",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Real-Time Systems",
+            "courseType": "Laboratory",
+            "instructor": "Shikharesh Majumdar",
+            "courseCode": "SYSC 3310",
+            "section": "B1",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "11:30 - 13:30",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 10
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35590"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3310",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Real-Time Systems",
+            "courseType": "Laboratory",
+            "instructor": "Shikharesh Majumdar",
+            "courseCode": "SYSC 3310",
+            "section": "B2",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "16:00 - 18:00",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 19
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35591"
+        }
+    ]
+}

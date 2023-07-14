@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3500",
+                "andSections": [],
+                "sections": [
+                    "L1E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Signals and Systems",
+            "courseType": "Lecture",
+            "instructor": "Sreeraman Rajan",
+            "courseCode": "SYSC 3500",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "10:00 - 11:30",
+                "building": "Canal Building",
+                "room": "2400",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 3600 and SYSC 3610.",
+            "crn": "35592"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3500",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Signals and Systems",
+            "courseType": "Problem Analysis",
+            "instructor": "Sreeraman Rajan",
+            "courseCode": "SYSC 3500",
+            "section": "L1E",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5107",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35593"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3020",
+                "andSections": [],
+                "sections": [
+                    "L2E",
+                    "L3E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Software Engineering",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "SYSC 3020",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "14:30 - 16:00",
+                "building": "Loeb Building",
+                "room": "C164",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 3100 SYSC 3120 SYSC 4120 and COMP 3004.",
+            "crn": "35569"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3020",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Software Engineering",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 3020",
+            "section": "L2E",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35571"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3020",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Software Engineering",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 3020",
+            "section": "L3E",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Minto Centre",
+                "room": "6045",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35572"
+        }
+    ]
+}

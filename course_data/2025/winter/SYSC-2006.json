@@ -1,0 +1,110 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L4"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Lecture",
+            "instructor": "Cristina Ruiz Martin",
+            "courseCode": "SYSC 2006",
+            "section": "D",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "08:30 - 10:00",
+                "building": "Steacie Building",
+                "room": "103",
+                "endBlock": 3
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 1102  SYSC 2002 and COMP 2401. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "15347"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Cristina Ruiz Martin",
+            "courseCode": "SYSC 2006",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "11:30 - 13:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 10
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15348"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Cristina Ruiz Martin",
+            "courseCode": "SYSC 2006",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "14:30 - 16:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15349"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Cristina Ruiz Martin",
+            "courseCode": "SYSC 2006",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "11:30 - 13:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 10
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15351"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "data": [
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "J",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3174",
+                "endBlock": 18
+            },
+            "sectionInfo": null,
+            "crn": "10827"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "K",
+            "meetingInfo": {
+                "startBlock": 19,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "18:00 - 21:00",
+                "building": "Tory Building",
+                "room": "204",
+                "endBlock": 25
+            },
+            "sectionInfo": null,
+            "crn": "10828"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "L",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "08:30 - 11:30",
+                "building": "Richcraft Hall",
+                "room": "3110",
+                "endBlock": 6
+            },
+            "sectionInfo": null,
+            "crn": "10829"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": "Lisa Meyer",
+            "courseCode": "CCDP 2100",
+            "section": "M",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "08:30 - 11:30",
+                "building": "Paterson Hall",
+                "room": "201",
+                "endBlock": 6
+            },
+            "sectionInfo": null,
+            "crn": "10830"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "N",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "14:30 - 17:30",
+                "building": "Richcraft Hall",
+                "room": "3112",
+                "endBlock": 18
+            },
+            "sectionInfo": null,
+            "crn": "10831"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "O",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "St. Patrick's Building",
+                "room": "400",
+                "endBlock": 6
+            },
+            "sectionInfo": null,
+            "crn": "10832"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "P",
+            "meetingInfo": {
+                "startBlock": 19,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "18:00 - 21:00",
+                "building": "Paterson Hall",
+                "room": "115",
+                "endBlock": 25
+            },
+            "sectionInfo": null,
+            "crn": "10833"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "Q",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Canal Building",
+                "room": "2104",
+                "endBlock": 6
+            },
+            "sectionInfo": null,
+            "crn": "10834"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": "Lisa Meyer",
+            "courseCode": "CCDP 2100",
+            "section": "R",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Paterson Hall",
+                "room": "115",
+                "endBlock": 18
+            },
+            "sectionInfo": null,
+            "crn": "10835"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "S",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "08:30 - 11:30",
+                "building": "Tory Building",
+                "room": "204",
+                "endBlock": 6
+            },
+            "sectionInfo": null,
+            "crn": "10836"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "T",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Richcraft Hall",
+                "room": "3112",
+                "endBlock": 18
+            },
+            "sectionInfo": null,
+            "crn": "10837"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "U",
+            "meetingInfo": {
+                "startBlock": 19,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "18:00 - 21:00",
+                "building": "Tory Building",
+                "room": "204",
+                "endBlock": 25
+            },
+            "sectionInfo": null,
+            "crn": "10838"
+        }
+    ]
+}

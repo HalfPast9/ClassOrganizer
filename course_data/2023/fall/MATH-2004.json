@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "AT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Lecture",
+            "instructor": "Abbas Momeni",
+            "courseCode": "MATH 2004",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "16:00 - 17:30",
+                "building": "Minto Centre",
+                "room": "2000",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS B.Eng.& B.Sc. Physics students only Precludes credit for:  BIT 2005 MATH 2008/2009/2000.",
+            "crn": "34219"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 2004",
+            "section": "AT",
+            "meetingInfo": {
+                "startBlock": 18,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "17:30 - 18:30",
+                "building": "",
+                "room": "",
+                "endBlock": 20
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34225"
+        }
+    ]
+}

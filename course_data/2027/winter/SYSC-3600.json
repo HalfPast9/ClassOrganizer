@@ -1,0 +1,110 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Lecture",
+            "instructor": "Carlos Rossa",
+            "courseCode": "SYSC 3600",
+            "section": "E",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon Wed",
+                "time": "16:00 - 17:30",
+                "building": "Loeb Building",
+                "room": "C164",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 3500 and SYSC 3610.",
+            "crn": "15404"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Carlos Rossa",
+            "courseCode": "SYSC 3600",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15405"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Carlos Rossa",
+            "courseCode": "SYSC 3600",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15406"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Carlos Rossa",
+            "courseCode": "SYSC 3600",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15407"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2100",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L4",
+                    "L5"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Algorithms and Data Structures",
+            "courseType": "Lecture",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2100",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed Fri",
+                "time": "11:30 - 13:00",
+                "building": "Azrieli Theatre",
+                "room": "301",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 2002 and COMP 2402.",
+            "crn": "15354"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2100",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Algorithms and Data Structures",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2100",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "09:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15355"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2100",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Algorithms and Data Structures",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2100",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "14:30 - 16:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15356"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2100",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Algorithms and Data Structures",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2100",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "14:30 - 16:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15358"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2100",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Algorithms and Data Structures",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2100",
+            "section": "L5",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "14:30 - 16:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15359"
+        }
+    ]
+}

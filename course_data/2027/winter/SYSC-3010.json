@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3010",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Comp Syst Development Project",
+            "courseType": "Lecture",
+            "instructor": "James Green",
+            "courseCode": "SYSC 3010",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 14,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "15:30 - 17:30",
+                "building": "Azrieli Theatre",
+                "room": "101",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for COMP 2404 SYSC 2010 SYSC 2101 (no longer offered) and SYSC 3110.",
+            "crn": "15373"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3010",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Comp Syst Development Project",
+            "courseType": "Laboratory",
+            "instructor": "James Green",
+            "courseCode": "SYSC 3010",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15374"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3010",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Comp Syst Development Project",
+            "courseType": "Laboratory",
+            "instructor": "James Green",
+            "courseCode": "SYSC 3010",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15375"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2320",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L6"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro. Computer Org. and Arch.",
+            "courseType": "Lecture",
+            "instructor": "Ramy Gohary",
+            "courseCode": "SYSC 2320",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "10:00 - 11:30",
+                "building": "Azrieli Theatre",
+                "room": "301",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Preculdes additonal credit for SYSC 2001 and SYSC 3006.",
+            "crn": "15362"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2320",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro. Computer Org. and Arch.",
+            "courseType": "Laboratory",
+            "instructor": "Ramy Gohary",
+            "courseCode": "SYSC 2320",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15363"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2320",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro. Computer Org. and Arch.",
+            "courseType": "Laboratory",
+            "instructor": "Ramy Gohary",
+            "courseCode": "SYSC 2320",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15364"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2320",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro. Computer Org. and Arch.",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 2320",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15365"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2320",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro. Computer Org. and Arch.",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 2320",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15366"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2320",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro. Computer Org. and Arch.",
+            "courseType": "Laboratory",
+            "instructor": "Ramy Gohary",
+            "courseCode": "SYSC 2320",
+            "section": "L6",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "3457",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15368"
+        }
+    ]
+}

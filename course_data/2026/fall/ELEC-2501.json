@@ -1,0 +1,358 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8",
+                    "L9"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Lecture",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "11:30 - 13:00",
+                "building": "Azrieli Theatre",
+                "room": "102",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for ELEC 3605. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "32385"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8",
+                    "L9"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Lecture",
+            "instructor": "Robert Gauthier",
+            "courseCode": "ELEC 2501",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed Fri",
+                "time": "14:30 - 16:00",
+                "building": "Nicol Building",
+                "room": "4010",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for ELEC 3605. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "32386"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8",
+                    "L9"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Lecture",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 9,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "13:00 - 14:30",
+                "building": "Steacie Building",
+                "room": "103",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for ELEC 3605. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "32387"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Laboratory",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "08:30 - 11:30",
+                "building": "Loeb Building",
+                "room": "B146",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32388"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Laboratory",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3165",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32390"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Laboratory",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "11:30 - 14:30",
+                "building": "Southam Hall",
+                "room": "413",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32391"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Laboratory",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "Southam Hall",
+                "room": "413",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32392"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Laboratory",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "L5",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "413",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32393"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Laboratory",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "L6",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "11:30 - 14:30",
+                "building": "Southam Hall",
+                "room": "413",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32394"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Laboratory",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "L7",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "413",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32395"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Laboratory",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "L8",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "413",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32396"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2501",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Circuits and Signals",
+            "courseType": "Laboratory",
+            "instructor": "Connor Kupchak",
+            "courseCode": "ELEC 2501",
+            "section": "L9",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "08:30 - 11:30",
+                "building": "Loeb Building",
+                "room": "B146",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32397"
+        }
+    ]
+}

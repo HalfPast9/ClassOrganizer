@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4502",
+                "andSections": [],
+                "sections": [
+                    "L2O",
+                    "L3O"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Communications Software",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "SYSC 4502",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "14:30 - 16:00",
+                "building": "Nideyin\u00e0n  (former UC)",
+                "room": "282",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15435"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4502",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Communications Software",
+            "courseType": "Problem Analysis",
+            "instructor": null,
+            "courseCode": "SYSC 4502",
+            "section": "L2O",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Minto Centre",
+                "room": "6045",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15437"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 4502",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Communications Software",
+            "courseType": "Problem Analysis",
+            "instructor": null,
+            "courseCode": "SYSC 4502",
+            "section": "L3O",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Minto Centre",
+                "room": "6045",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15438"
+        }
+    ]
+}

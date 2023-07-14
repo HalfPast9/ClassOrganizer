@@ -1,0 +1,191 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2310",
+                "andSections": [],
+                "sections": [
+                    "L1E",
+                    "L1O",
+                    "L2E",
+                    "L2O",
+                    "L3E",
+                    "L3O"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Digital Systems",
+            "courseType": "Lecture",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 2310",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "11:30 - 13:00",
+                "building": "Tory Building",
+                "room": "360",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for ELEC 2607.",
+            "crn": "35553"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2310",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Digital Systems",
+            "courseType": "Laboratory",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 2310",
+            "section": "L1E",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Nicol Building",
+                "room": "4040",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35554"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2310",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Digital Systems",
+            "courseType": "Laboratory",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 2310",
+            "section": "L1O",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 11 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Nicol Building",
+                "room": "4040",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35555"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2310",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Digital Systems",
+            "courseType": "Laboratory",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 2310",
+            "section": "L2E",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "318",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35556"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2310",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Digital Systems",
+            "courseType": "Laboratory",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 2310",
+            "section": "L2O",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 11 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Southam Hall",
+                "room": "318",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35557"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2310",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Digital Systems",
+            "courseType": "Laboratory",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 2310",
+            "section": "L3E",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Southam Hall",
+                "room": "515",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35558"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2310",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Digital Systems",
+            "courseType": "Laboratory",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 2310",
+            "section": "L3O",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 11 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Southam Hall",
+                "room": "515",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35559"
+        }
+    ]
+}

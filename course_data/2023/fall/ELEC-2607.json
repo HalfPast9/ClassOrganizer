@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2607",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Switching Circuits",
+            "courseType": "Lecture",
+            "instructor": "Arash Ahmadi",
+            "courseCode": "ELEC 2607",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "14:30 - 16:00",
+                "building": "Mackenzie Building",
+                "room": "3380",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "32398"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2607",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Switching Circuits",
+            "courseType": "Laboratory",
+            "instructor": "Arash Ahmadi",
+            "courseCode": "ELEC 2607",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4275",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32399"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2607",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Switching Circuits",
+            "courseType": "Laboratory",
+            "instructor": "Arash Ahmadi",
+            "courseCode": "ELEC 2607",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "4275",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32400"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2607",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Switching Circuits",
+            "courseType": "Laboratory",
+            "instructor": "Arash Ahmadi",
+            "courseCode": "ELEC 2607",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "4275",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32401"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2607",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Switching Circuits",
+            "courseType": "Laboratory",
+            "instructor": "Arash Ahmadi",
+            "courseCode": "ELEC 2607",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "4275",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32402"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2607",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Switching Circuits",
+            "courseType": "Laboratory",
+            "instructor": "Arash Ahmadi",
+            "courseCode": "ELEC 2607",
+            "section": "L5",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4275",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32403"
+        }
+    ]
+}

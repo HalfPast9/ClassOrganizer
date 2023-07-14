@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3509",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L7"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics II",
+            "courseType": "Lecture",
+            "instructor": "Qi-jun Zhang",
+            "courseCode": "ELEC 3509",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "08:30 - 10:00",
+                "building": "Mackenzie Building",
+                "room": "3380",
+                "endBlock": 3
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32421"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3509",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics II",
+            "courseType": "Laboratory",
+            "instructor": "Qi-jun Zhang",
+            "courseCode": "ELEC 3509",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "4195",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32422"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3509",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics II",
+            "courseType": "Laboratory",
+            "instructor": "Qi-jun Zhang",
+            "courseCode": "ELEC 3509",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "4195",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32423"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3509",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics II",
+            "courseType": "Laboratory",
+            "instructor": "Qi-jun Zhang",
+            "courseCode": "ELEC 3509",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "4195",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32424"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3509",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics II",
+            "courseType": "Laboratory",
+            "instructor": "Qi-jun Zhang",
+            "courseCode": "ELEC 3509",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4195",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32425"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3509",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics II",
+            "courseType": "Laboratory",
+            "instructor": "Qi-jun Zhang",
+            "courseCode": "ELEC 3509",
+            "section": "L7",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "4195",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32427"
+        }
+    ]
+}

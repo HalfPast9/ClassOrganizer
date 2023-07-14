@@ -1,0 +1,110 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3500",
+                "andSections": [],
+                "sections": [
+                    "A1",
+                    "A2",
+                    "A4"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Digital Electronics",
+            "courseType": "Lecture",
+            "instructor": "Ralph Mason",
+            "courseCode": "ELEC 3500",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 9,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "13:00 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "3165",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32411"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3500",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Digital Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Ralph Mason",
+            "courseCode": "ELEC 3500",
+            "section": "A1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4166",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32412"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3500",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Digital Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Ralph Mason",
+            "courseCode": "ELEC 3500",
+            "section": "A2",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "4166",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32413"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3500",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Digital Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Ralph Mason",
+            "courseCode": "ELEC 3500",
+            "section": "A4",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4166",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32415"
+        }
+    ]
+}

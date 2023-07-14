@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3909",
+                "andSections": [],
+                "sections": [
+                    "L1O",
+                    "L2E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Waves",
+            "courseType": "Lecture",
+            "instructor": "Shulabh Gupta",
+            "courseCode": "ELEC 3909",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed Fri",
+                "time": "08:30 - 10:00",
+                "building": "Mackenzie Building",
+                "room": "3165",
+                "endBlock": 3
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for PHYS 3308.",
+            "crn": "32435"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3909",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Waves",
+            "courseType": "Problem Analysis",
+            "instructor": "Shulabh Gupta",
+            "courseCode": "ELEC 3909",
+            "section": "L1O",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 11 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "St. Patrick's Building",
+                "room": "415",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32436"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3909",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Waves",
+            "courseType": "Problem Analysis",
+            "instructor": "Shulabh Gupta",
+            "courseCode": "ELEC 3909",
+            "section": "L2E",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 18 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "St. Patrick's Building",
+                "room": "415",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32437"
+        }
+    ]
+}

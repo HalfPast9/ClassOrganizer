@@ -1,0 +1,137 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3500",
+                "andSections": [],
+                "sections": [
+                    "B1",
+                    "B2",
+                    "B3",
+                    "B4"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Digital Electronics",
+            "courseType": "Lecture",
+            "instructor": "Pavan Gunupudi",
+            "courseCode": "ELEC 3500",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "14:30 - 16:00",
+                "building": "Steacie Building",
+                "room": "103",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12318"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3500",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Digital Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Pavan Gunupudi",
+            "courseCode": "ELEC 3500",
+            "section": "B1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4166",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12319"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3500",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Digital Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Pavan Gunupudi",
+            "courseCode": "ELEC 3500",
+            "section": "B2",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "4166",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12320"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3500",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Digital Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Pavan Gunupudi",
+            "courseCode": "ELEC 3500",
+            "section": "B3",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4166",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12321"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3500",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Digital Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Pavan Gunupudi",
+            "courseCode": "ELEC 3500",
+            "section": "B4",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "4166",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12322"
+        }
+    ]
+}

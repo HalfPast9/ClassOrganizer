@@ -1,0 +1,110 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3908",
+                "andSections": [],
+                "sections": [
+                    "A1",
+                    "A2",
+                    "A3"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Physical Electronics",
+            "courseType": "Lecture",
+            "instructor": "Tom Smy",
+            "courseCode": "ELEC 3908",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "14:30 - 16:00",
+                "building": "Nideyin\u00e0n  (former UC)",
+                "room": "182",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for ELEC  4705.",
+            "crn": "32430"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3908",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Physical Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Tom Smy",
+            "courseCode": "ELEC 3908",
+            "section": "A1",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "3356",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32431"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3908",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Physical Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Tom Smy",
+            "courseCode": "ELEC 3908",
+            "section": "A2",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Richcraft Hall",
+                "room": "3201",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32432"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3908",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Physical Electronics",
+            "courseType": "Laboratory",
+            "instructor": "Tom Smy",
+            "courseCode": "ELEC 3908",
+            "section": "A3",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "11:30 - 14:30",
+                "building": "Southam Hall",
+                "room": "309",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "32433"
+        }
+    ]
+}

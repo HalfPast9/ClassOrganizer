@@ -1,0 +1,316 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "AT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Lecture",
+            "instructor": "Ayse Alaca",
+            "courseCode": "MATH 1005",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed Fri",
+                "time": "08:30 - 10:00",
+                "building": "Azrieli Theatre",
+                "room": "101",
+                "endBlock": 3
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34082"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "AT",
+            "meetingInfo": {
+                "startBlock": 4,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "10:30 - 11:30",
+                "building": "",
+                "room": "",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34088"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "BT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Lecture",
+            "instructor": "Ayse Alaca",
+            "courseCode": "MATH 1005",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "11:30 - 13:00",
+                "building": "Azrieli Theatre",
+                "room": "302",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34089"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "BT",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "09:30 - 10:30",
+                "building": "",
+                "room": "",
+                "endBlock": 4
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34095"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "CT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "10:00 - 11:30",
+                "building": "Health Science Building",
+                "room": "1301",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34096"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "CT",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "08:30 - 09:30",
+                "building": "",
+                "room": "",
+                "endBlock": 2
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34102"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "DT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "D",
+            "meetingInfo": {
+                "startBlock": 15,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed Fri",
+                "time": "16:00 - 17:30",
+                "building": "Azrieli Theatre",
+                "room": "301",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34103"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "DT",
+            "meetingInfo": {
+                "startBlock": 18,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "17:30 - 18:30",
+                "building": "",
+                "room": "",
+                "endBlock": 20
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34109"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "ET"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "E",
+            "meetingInfo": {
+                "startBlock": 22,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "19:30 - 21:00",
+                "building": "Azrieli Theatre",
+                "room": "101",
+                "endBlock": 25
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34110"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "ET",
+            "meetingInfo": {
+                "startBlock": 25,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "21:00 - 22:00",
+                "building": "",
+                "room": "",
+                "endBlock": 27
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34116"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "FT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "F",
+            "meetingInfo": {
+                "startBlock": 19,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "18:00 - 19:30",
+                "building": "Azrieli Theatre",
+                "room": "301",
+                "endBlock": 22
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34117"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 1005",
+                "andSections": [],
+                "sections": [
+                    "F"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Diff. Eqs. & Series Eng. & Phy",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 1005",
+            "section": "FT",
+            "meetingInfo": {
+                "startBlock": 23,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "20:00 - 21:00",
+                "building": "",
+                "room": "",
+                "endBlock": 25
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "34123"
+        }
+    ]
+}

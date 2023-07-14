@@ -1,0 +1,199 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2507",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics I",
+            "courseType": "Lecture",
+            "instructor": "Masum Hossain",
+            "courseCode": "ELEC 2507",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 9,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon Wed",
+                "time": "13:00 - 14:30",
+                "building": "Loeb Building",
+                "room": "C164",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for PLT 2006. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "12294"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2507",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics I",
+            "courseType": "Lecture",
+            "instructor": "Masum Hossain",
+            "courseCode": "ELEC 2507",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed Fri",
+                "time": "11:30 - 13:00",
+                "building": "Tory Building",
+                "room": "360",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for PLT 2006. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "12295"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2507",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics I",
+            "courseType": "Laboratory",
+            "instructor": "Masum Hossain",
+            "courseCode": "ELEC 2507",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "3165",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12296"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2507",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics I",
+            "courseType": "Laboratory",
+            "instructor": "Masum Hossain",
+            "courseCode": "ELEC 2507",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "3165",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12297"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2507",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics I",
+            "courseType": "Laboratory",
+            "instructor": "Masum Hossain",
+            "courseCode": "ELEC 2507",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Nicol Building",
+                "room": "5010",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12298"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2507",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics I",
+            "courseType": "Laboratory",
+            "instructor": "Masum Hossain",
+            "courseCode": "ELEC 2507",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3165",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12299"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2507",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electronics I",
+            "courseType": "Laboratory",
+            "instructor": "Masum Hossain",
+            "courseCode": "ELEC 2507",
+            "section": "L5",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3165",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12300"
+        }
+    ]
+}

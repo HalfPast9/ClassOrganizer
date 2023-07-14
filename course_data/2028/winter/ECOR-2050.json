@@ -1,0 +1,228 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "L01",
+                    "L02",
+                    "L03",
+                    "L04",
+                    "L05",
+                    "L06"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Lecture",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "10:00 - 11:30",
+                "building": "Nicol Building",
+                "room": "4010",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Registration is limited based on program please verify which term to take this course by checking your program progression tree: https://carleton.ca/engineering-design/current-students/ undergrad-academic-support/prerequisites/",
+            "crn": "12269"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "L01",
+                    "L02",
+                    "L03",
+                    "L04",
+                    "L05",
+                    "L06"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Lecture",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "D",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "11:30 - 13:00",
+                "building": "Azrieli Theatre",
+                "room": "102",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Registration is limited based on program please verify which term to take this course by checking your your program progression tree: https://carleton.ca/engineering-design/current-students/ undergrad-academic-support/prerequisites/",
+            "crn": "12270"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L01",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Loeb Building",
+                "room": "B146",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12271"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L02",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Nicol Building",
+                "room": "4040",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12272"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L03",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "Loeb Building",
+                "room": "B146",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12273"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L04",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "08:30 - 11:30",
+                "building": "Nicol Building",
+                "room": "4040",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12274"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L05",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "14:30 - 17:30",
+                "building": "Nicol Building",
+                "room": "4040",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12275"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ECOR 2050",
+                "andSections": [],
+                "sections": [
+                    "C",
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Design/Analysis of Experiments",
+            "courseType": "Laboratory",
+            "instructor": "Shoeleh Shams",
+            "courseCode": "ECOR 2050",
+            "section": "L06",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "2202",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12276"
+        }
+    ]
+}

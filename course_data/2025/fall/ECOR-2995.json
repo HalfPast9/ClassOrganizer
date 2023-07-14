@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "alsoRegister": null,
+            "courseName": "Engineering Portfolio",
+            "courseType": "Independent Study",
+            "instructor": "Samuel Ajila",
+            "courseCode": "ECOR 2995",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": -1,
+                "meetingDate": "Sep 06 2023 to Oct 20 2023",
+                "days": "",
+                "time": "",
+                "building": "",
+                "room": "",
+                "endBlock": -1
+            },
+            "sectionInfo": null,
+            "crn": "32372"
+        }
+    ]
+}

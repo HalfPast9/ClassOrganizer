@@ -1,0 +1,175 @@
+{
+    "data": [
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": "Lisa Meyer",
+            "courseCode": "CCDP 2100",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "14:30 - 17:30",
+                "building": "Paterson Hall",
+                "room": "201",
+                "endBlock": 18
+            },
+            "sectionInfo": null,
+            "crn": "30823"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": "Helen Triantafellou",
+            "courseCode": "CCDP 2100",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "ON",
+                "room": "LINE",
+                "endBlock": 6
+            },
+            "sectionInfo": null,
+            "crn": "30824"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": "Helen Triantafellou",
+            "courseCode": "CCDP 2100",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 19,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "18:00 - 21:00",
+                "building": "ON",
+                "room": "LINE",
+                "endBlock": 25
+            },
+            "sectionInfo": null,
+            "crn": "30825"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "D",
+            "meetingInfo": {
+                "startBlock": 19,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "18:00 - 21:00",
+                "building": "Tory Building",
+                "room": "204",
+                "endBlock": 25
+            },
+            "sectionInfo": null,
+            "crn": "30826"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": "Lisa Meyer",
+            "courseCode": "CCDP 2100",
+            "section": "E",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "08:30 - 11:30",
+                "building": "Paterson Hall",
+                "room": "201",
+                "endBlock": 6
+            },
+            "sectionInfo": null,
+            "crn": "30827"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "F",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Paterson Hall",
+                "room": "215",
+                "endBlock": 18
+            },
+            "sectionInfo": null,
+            "crn": "30828"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": "Helen Triantafellou",
+            "courseCode": "CCDP 2100",
+            "section": "G",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "Tory Building",
+                "room": "204",
+                "endBlock": 6
+            },
+            "sectionInfo": null,
+            "crn": "30829"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "H",
+            "meetingInfo": {
+                "startBlock": 19,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "18:00 - 21:00",
+                "building": "Teraanga Commons (former CO)",
+                "room": "213",
+                "endBlock": 25
+            },
+            "sectionInfo": null,
+            "crn": "30830"
+        },
+        {
+            "alsoRegister": null,
+            "courseName": "Communication Skills for B.Eng",
+            "courseType": "Seminar",
+            "instructor": null,
+            "courseCode": "CCDP 2100",
+            "section": "I",
+            "meetingInfo": {
+                "startBlock": 19,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "18:00 - 21:00",
+                "building": "Tory Building",
+                "room": "204",
+                "endBlock": 25
+            },
+            "sectionInfo": null,
+            "crn": "30831"
+        }
+    ]
+}

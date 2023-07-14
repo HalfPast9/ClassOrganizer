@@ -1,0 +1,212 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "BT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "MATH 2004",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 9,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "13:00 - 14:30",
+                "building": "Azrieli Theatre",
+                "room": "301",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "14010"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 2004",
+            "section": "BT",
+            "meetingInfo": {
+                "startBlock": 18,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue",
+                "time": "17:30 - 18:30",
+                "building": "",
+                "room": "",
+                "endBlock": 20
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "14015"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "CT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "MATH 2004",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 22,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "19:30 - 21:00",
+                "building": "Azrieli Theatre",
+                "room": "302",
+                "endBlock": 25
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "14016"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 2004",
+            "section": "CT",
+            "meetingInfo": {
+                "startBlock": 25,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "21:00 - 22:00",
+                "building": "",
+                "room": "",
+                "endBlock": 27
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "14021"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "DT"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "MATH 2004",
+            "section": "D",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon Wed",
+                "time": "08:30 - 10:00",
+                "building": "Azrieli Theatre",
+                "room": "102",
+                "endBlock": 3
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS B. Eng. & B.Sc. Physics students only",
+            "crn": "14022"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "D"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 2004",
+            "section": "DT",
+            "meetingInfo": {
+                "startBlock": 4,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "10:30 - 11:30",
+                "building": "",
+                "room": "",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "14026"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "ET"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "MATH 2004",
+            "section": "E",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "08:30 - 10:00",
+                "building": "Tory Building",
+                "room": "360",
+                "endBlock": 3
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS B.Eng. & B.Sc. Physics students only Precludes credit for BIT 2005 MATH 2008/2009/2000.",
+            "crn": "14027"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "MATH 2004",
+                "andSections": [],
+                "sections": [
+                    "E"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Multivariable Cal. Eng or Phys",
+            "courseType": "Tutorial",
+            "instructor": null,
+            "courseCode": "MATH 2004",
+            "section": "ET",
+            "meetingInfo": {
+                "startBlock": 16,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "16:30 - 17:30",
+                "building": "",
+                "room": "",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "14032"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2607",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L3"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Switching Circuits",
+            "courseType": "Lecture",
+            "instructor": "Maitham Shams",
+            "courseCode": "ELEC 2607",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 9,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "13:00 - 14:30",
+                "building": "Southam Hall",
+                "room": "306",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 2607/SYSC 3607 or ELEC 3607. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "12309"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2607",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Switching Circuits",
+            "courseType": "Laboratory",
+            "instructor": "Maitham Shams",
+            "courseCode": "ELEC 2607",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4275",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12310"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 2607",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Switching Circuits",
+            "courseType": "Laboratory",
+            "instructor": "Maitham Shams",
+            "courseCode": "ELEC 2607",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "4275",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12312"
+        }
+    ]
+}

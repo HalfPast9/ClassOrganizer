@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3105",
+                "andSections": [],
+                "sections": [
+                    "C2",
+                    "C3"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Fields",
+            "courseType": "Lecture",
+            "instructor": "Hubert Jean-Ruel",
+            "courseCode": "ELEC 3105",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon Wed",
+                "time": "14:30 - 16:00",
+                "building": "Southam Hall",
+                "room": "502",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for ELEC 2601 or ELEC 3504.",
+            "crn": "12313"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3105",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Fields",
+            "courseType": "Laboratory",
+            "instructor": "Hubert Jean-Ruel",
+            "courseCode": "ELEC 3105",
+            "section": "C2",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Teraanga Commons (former CO)",
+                "room": "211",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12315"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "ELEC 3105",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Electromagnetic Fields",
+            "courseType": "Laboratory",
+            "instructor": "Hubert Jean-Ruel",
+            "courseCode": "ELEC 3105",
+            "section": "C3",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "St. Patrick's Building",
+                "room": "415",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "12316"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2510",
+                "andSections": [],
+                "sections": [
+                    "L1O",
+                    "L2O",
+                    "L3O"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Probability & Random Processes",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "SYSC 2510",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon Wed",
+                "time": "10:00 - 11:30",
+                "building": "Azrieli Theatre",
+                "room": "302",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15369"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2510",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Probability & Random Processes",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 2510",
+            "section": "L1O",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15370"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2510",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Probability & Random Processes",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 2510",
+            "section": "L2O",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Mon",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15371"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2510",
+                "andSections": [],
+                "sections": [
+                    "A"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Probability & Random Processes",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 2510",
+            "section": "L3O",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Wed",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15372"
+        }
+    ]
+}

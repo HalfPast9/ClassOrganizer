@@ -1,0 +1,359 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L6"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Lecture",
+            "instructor": "Howard Schwartz",
+            "courseCode": "SYSC 3600",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "10:00 - 11:30",
+                "building": "Southam Hall",
+                "room": "THB",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 3500 and SYSC 3610.",
+            "crn": "35594"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L6"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Lecture",
+            "instructor": "Roshdy Hafez",
+            "courseCode": "SYSC 3600",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "14:30 - 16:00",
+                "building": "Southam Hall",
+                "room": "THB",
+                "endBlock": 15
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 3500 and SYSC 3610.",
+            "crn": "35595"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "L10",
+                    "L11",
+                    "L12",
+                    "L7",
+                    "L8"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Lecture",
+            "instructor": "Chao Shen",
+            "courseCode": "SYSC 3600",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 9,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed Fri",
+                "time": "13:00 - 14:30",
+                "building": "Loeb Building",
+                "room": "C264",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 2500SYSC 3500 or SYSC 3610.",
+            "crn": "35596"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Howard Schwartz",
+            "courseCode": "SYSC 3600",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "08:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35597"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Chao Shen",
+            "courseCode": "SYSC 3600",
+            "section": "L10",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "14:30 - 17:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35598"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Chao Shen",
+            "courseCode": "SYSC 3600",
+            "section": "L11",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "14:30 - 17:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 18
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35599"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Chao Shen",
+            "courseCode": "SYSC 3600",
+            "section": "L12",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5107",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35600"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": null,
+            "courseCode": "SYSC 3600",
+            "section": "L2",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35601"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Howard Schwartz",
+            "courseCode": "SYSC 3600",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35602"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Howard Schwartz",
+            "courseCode": "SYSC 3600",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "11:30 - 14:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35603"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Roshdy Hafez",
+            "courseCode": "SYSC 3600",
+            "section": "L6",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5107",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35605"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Roshdy Hafez",
+            "courseCode": "SYSC 3600",
+            "section": "L7",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "08:30 - 11:30",
+                "building": "Canal Building",
+                "room": "5109",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35606"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 3600",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Systems and Simulation",
+            "courseType": "Laboratory",
+            "instructor": "Chao Shen",
+            "courseCode": "SYSC 3600",
+            "section": "L8",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "11:30 - 14:30",
+                "building": "Canal Building",
+                "room": "5105",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35607"
+        }
+    ]
+}

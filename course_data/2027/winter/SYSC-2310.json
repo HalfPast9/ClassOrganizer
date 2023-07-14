@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2310",
+                "andSections": [],
+                "sections": [
+                    "L1O"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Digital Systems",
+            "courseType": "Lecture",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 2310",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 9,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Tue Thu",
+                "time": "13:00 - 14:30",
+                "building": "Southam Hall",
+                "room": "415",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for ELEC 2607.",
+            "crn": "15360"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2310",
+                "andSections": [],
+                "sections": [
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Intro to Digital Systems",
+            "courseType": "Laboratory",
+            "instructor": "Shaghayegh Gomar",
+            "courseCode": "SYSC 2310",
+            "section": "L1O",
+            "meetingInfo": {
+                "startBlock": 0,
+                "meetingDate": "Jan 08 2024 to Apr 10 2024",
+                "days": "Thu",
+                "time": "08:30 - 11:30",
+                "building": "Southam Hall",
+                "room": "316",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "15361"
+        }
+    ]
+}

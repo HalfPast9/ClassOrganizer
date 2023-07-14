@@ -1,0 +1,296 @@
+{
+    "data": [
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L9"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Lecture",
+            "instructor": null,
+            "courseCode": "SYSC 2006",
+            "section": "A",
+            "meetingInfo": {
+                "startBlock": 3,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue Thu",
+                "time": "10:00 - 11:30",
+                "building": "Minto Centre",
+                "room": "5050",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 1102 SYSC 2002 and COMP 2401. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "35539"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L9"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Lecture",
+            "instructor": "Cristina Ruiz Martin",
+            "courseCode": "SYSC 2006",
+            "section": "B",
+            "meetingInfo": {
+                "startBlock": 9,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed Fri",
+                "time": "13:00 - 14:30",
+                "building": "Tory Building",
+                "room": "210",
+                "endBlock": 12
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 1102  SYSC 2002. and COMP 2401. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "35540"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "L1",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L9"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Lecture",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2006",
+            "section": "C",
+            "meetingInfo": {
+                "startBlock": 6,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon Wed",
+                "time": "11:30 - 13:00",
+                "building": "Minto Centre",
+                "room": "5050",
+                "endBlock": 9
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS Precludes additional credit for SYSC 1102  SYSC 2002 and COMP 2401. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/",
+            "crn": "35541"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2006",
+            "section": "L1",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "14:30 - 16:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35542"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2006",
+            "section": "L3",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Wed",
+                "time": "09:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35545"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2006",
+            "section": "L4",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Thu",
+                "time": "14:30 - 16:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35546"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2006",
+            "section": "L5",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Fri",
+                "time": "09:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35547"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2006",
+            "section": "L6",
+            "meetingInfo": {
+                "startBlock": 12,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Tue",
+                "time": "14:30 - 16:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 16
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35548"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2006",
+            "section": "L7",
+            "meetingInfo": {
+                "startBlock": 2,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "09:30 - 11:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 6
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35549"
+        },
+        {
+            "alsoRegister": {
+                "courseCode": "SYSC 2006",
+                "andSections": [],
+                "sections": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "andCourseCode": null
+            },
+            "courseName": "Foundations Imperative Program",
+            "courseType": "Laboratory",
+            "instructor": "Safaa Bedawi",
+            "courseCode": "SYSC 2006",
+            "section": "L9",
+            "meetingInfo": {
+                "startBlock": 16,
+                "meetingDate": "Sep 06 2023 to Dec 08 2023",
+                "days": "Mon",
+                "time": "16:30 - 18:30",
+                "building": "Mackenzie Building",
+                "room": "3475",
+                "endBlock": 20
+            },
+            "sectionInfo": "Section Type - IN-PERSON. NOT SUITABLE FOR ONLINE STUDENTS",
+            "crn": "35551"
+        }
+    ]
+}
