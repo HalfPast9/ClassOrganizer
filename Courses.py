@@ -1,7 +1,3 @@
-class Course:
-    def __init__(self):
-        pass
-
 
 class Period:
     def __init__(self):

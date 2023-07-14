@@ -29,7 +29,6 @@ def data_collector(term, year, course_lst):
     return course_data
 
 
-
 def course_parser(data, course_lst):
     course = {
         'courseCode': None,
@@ -74,48 +73,7 @@ def course_parser(data, course_lst):
 
         
 def time_conflict(course1,course2):
-    """check = False
-    if len(course1.meeting_days) > 1 and len(course2.meeting_days) == 1:
-        for i in course1.meeting_days:
-            if i == course2.meeting_days[0]:
-                check = True
-    if len(course2.meeting_days) > 1 and len(course1.meeting_days) == 1:
-        for i in course2.meeting_days:
-            if i == course1.meeting_days[0]:
-                check = True
-    if course1.meeting_days == course2.meeting_days:
-        check = True
-    
-    for i in course1.meeting_days:
-        for j in course2.meeting_days:
-            print(i, j)
-            if i == j:
-                check = True
-            print(check)
 
-    if check:
-
-        if course1.start_time <= course2.start_time <= course1.end_time:
-            return True
-        if course1.start_time <= course2.end_time <= course1.end_time:
-            return True
-    
-        if course2.start_time <= course1.start_time <= course2.end_time:
-            return True
-        if course2.start_time <= course1.end_time <= course2.end_time:
-            return True
-        
-
-        if course1.start_time == course2.start_time:
-            return True
-        if course2.start_time == course1.start_time:
-            return True
-        if course1.end_time == course2.end_time:
-            return True
-    
-    else:
-        return False"""
-    
     check = False
     for i in course1.meeting_days:
         for j in course2.meeting_days:
