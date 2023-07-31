@@ -2,9 +2,6 @@ import accessories
 from itertools import combinations
 
 def main():
-    day = []
-    for i in range(30):
-        day.append(None)
     
     year = '2023'
     term = 'fall'
