@@ -85,8 +85,8 @@ def main():
 
     # go through the files and sort by best schdule based on factors like number of days off, consecuteive classes, etc.
 
+    print("Done")
 
-        
-
-main()
-
+if __name__ == "__main__":
+    main()
+    
