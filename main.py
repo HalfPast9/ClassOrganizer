@@ -3,21 +3,21 @@ from itertools import combinations
 
 def main():
     
-    year = '2023'
-    term = 'fall'
-    rqrd_courses = ['SYSC-2006', 'SYSC-2310', 'MATH-1005', "CCDP-2100", "ELEC-2501"]
-
+    year = '2024'
+    term = 'winter'
+    rqrd_courses = [ "SYSC-2510", "SYSC-2100","SYSC-2004","MATH-2004","SYSC-2320"]
+    print("Collecting Data...")
     course_json = accessories.data_collector(term, year, rqrd_courses)
     course_lst = accessories.course_parser(course_json, rqrd_courses)
-
+    print("Data Collected")
     lect_lst, tut_lst = accessories.course_isolation(course_lst)
     lect_sched = [list(comb) for comb in (accessories.combination(lect_lst,len(rqrd_courses)))]
     filt_lec = accessories.lecture_conflict(lect_sched)
-    
+    print("Lecture Schedules Generated")
     comb_lst = []
     for schedule in filt_lec:
         comb_lst.append(accessories.valid_tut(schedule, tut_lst))
-
+    print("Tutorial Schedules Generated")
 
     unfilt_scheds = []
     s_length = accessories.schedule_length(course_lst)
@@ -27,6 +27,7 @@ def main():
             unfilt_scheds.append(i)
         print(f"{(comb_lst.index(schedule)+ 1)} of {len(comb_lst)}")
     
+    print("Schedules Generated")
     """for i in unfilt_scheds:
         print("")
         print("[")
@@ -49,7 +50,7 @@ def main():
             else:
                 tut.append(course)
 
-
+        
         for course in lect:
             for tutorial in tut:
                 if course.also_register == None:
@@ -62,6 +63,7 @@ def main():
             if len(tut_check) == len(rqrd_courses):
                 scheds.append(schedule)
 
+    print("Schedules Filtered")
 
     final_scheds = []
     for schedule in scheds:
@@ -73,7 +75,8 @@ def main():
         if check == 0:
             final_scheds.append(schedule)
 
-
+    print("Schedules Filtered")
+    print("writing to files")
     for i in range(len(final_scheds)):
          with open(f"schedules/schedule{i}.txt", "w") as f:
                 for j in final_scheds[i]:
@@ -86,5 +89,5 @@ def main():
 
         
 
-
+main()
 
