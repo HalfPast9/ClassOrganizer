@@ -1,5 +1,4 @@
 import accessories
-from itertools import combinations
 
 def main():
     
