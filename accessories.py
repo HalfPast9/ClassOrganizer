@@ -18,7 +18,7 @@ def data_collector(term, year, course_lst):
         
     exec(f"course_data = {course_str}", locals())
     return locals()["course_data"]"""
-
+    print("Collecting Data...")
     course_data = []
     for course in course_lst:
         location = f"course_data/{year}/{term}/{course}.json"
@@ -68,6 +68,8 @@ def course_parser(data, course_lst):
             classes.append(course)
             if course.time_slot == None or course.time_slot == "Null":
                 classes.pop()
+
+    print("Data Collected")
 
     return(classes)
 
@@ -159,7 +161,7 @@ def lecture_conflict(sched_lst):
             new_sched_lst.append(schedule)
 
     sched_lst = new_sched_lst
-                    
+    print("Lecture Schedules Generated")
     return sched_lst
 
 def valid_tut(course_lst, tut_lst):

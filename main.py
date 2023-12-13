@@ -4,15 +4,17 @@ def main():
     
     year = '2024'
     term = 'winter'
-    rqrd_courses = [ "SYSC-2510", "SYSC-2100","SYSC-2004","MATH-2004","SYSC-2320"]
-    print("Collecting Data...")
+    rqrd_courses = ["SYSC-2510","SYSC-2100","SYSC-2004","MATH-2004","SYSC-2320"]
+
     course_json = accessories.data_collector(term, year, rqrd_courses)
     course_lst = accessories.course_parser(course_json, rqrd_courses)
-    print("Data Collected")
+
+
     lect_lst, tut_lst = accessories.course_isolation(course_lst)
     lect_sched = [list(comb) for comb in (accessories.combination(lect_lst,len(rqrd_courses)))]
     filt_lec = accessories.lecture_conflict(lect_sched)
-    print("Lecture Schedules Generated")
+
+
     comb_lst = []
     for schedule in filt_lec:
         comb_lst.append(accessories.valid_tut(schedule, tut_lst))
@@ -76,6 +78,7 @@ def main():
 
     print("Schedules Filtered")
     print("writing to files")
+
     for i in range(len(final_scheds)):
          with open(f"schedules/schedule{i}.txt", "w") as f:
                 for j in final_scheds[i]:
@@ -87,6 +90,7 @@ def main():
 
     print("Done")
 
+
 if __name__ == "__main__":
     main()
-    
+
