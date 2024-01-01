@@ -14,6 +14,7 @@ def main():
     lect_sched = [list(comb) for comb in (accessories.combination(lect_lst,len(rqrd_courses)))]
     filt_lec = accessories.lecture_conflict(lect_sched)
 
+    print(lect_sched)
 
     comb_lst = []
     for schedule in filt_lec:
