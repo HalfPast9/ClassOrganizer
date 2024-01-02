@@ -21,7 +21,7 @@ def data_collector(term, year, course_lst):
     print("Collecting Data...")
     course_data = []
     for course in course_lst:
-        location = f"course_data/{year}/{term}/{course}.json"
+        location = rf"course_data\2024\winter\{course}"
         with open(location, "r") as f:
             data = json.load(f)
             course_data.append(data)
